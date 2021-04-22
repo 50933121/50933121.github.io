@@ -183,7 +183,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20210422194341.1">&lt;section&gt;
-&lt;img src="https://50933121.github.io/images/ipv4_vs_ipv6.png"  style="height: 200px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;img src="https://50933121.github.io/images/vs.png"  style="height: 200px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
 &lt;/section&gt;
 </t>
 </tnodes>
