@@ -30,8 +30,9 @@
 <v t="leo.20210422213308.1"><vh>slide 4-2</vh></v>
 <v t="leo.20210422220341.1"><vh>slide 4-3</vh></v>
 </v>
-<v t="leo.20210422215744.1"><vh>slide 5</vh>
-<v t="leo.20210422215830.1"><vh>slide 5-1</vh></v>
+<v t="leo.20210422223802.1"><vh>slide 5</vh></v>
+<v t="leo.20210422215744.1"><vh>slide 6</vh>
+<v t="leo.20210422215830.1"><vh>slide 6-1</vh></v>
 </v>
 </v>
 </v>
@@ -218,7 +219,7 @@ vertical: body pane on the botton</t>
     &lt;p&gt;最主要是為解決IPV4已經用盡的問題&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422215138.1">&lt;section&gt;
-    &lt;img src="https://50933121.github.io/images/4.png"  style="height: 300px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;img src="https://50933121.github.io/images/4.png"  style="height: 200pt; margin: auto ; background: transparent;"" class="demo-logo"&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422215744.1">&lt;section&gt;
     @others
@@ -227,7 +228,10 @@ vertical: body pane on the botton</t>
     &lt;h1&gt;DNS&lt;h1&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422220341.1">&lt;section&gt;
-    
+    &lt;img src="https://50933121.github.io/images/6.png"  style="height: 120pt; margin:auto ; background: transparent;" class="demo-logo"&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422223802.1">&lt;section&gt;
+   &lt;img src="https://50933121.github.io/images/vs.jpg"  style="height: 200pt; margin: auto ; background: transparent;"" class="demo-logo"&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
