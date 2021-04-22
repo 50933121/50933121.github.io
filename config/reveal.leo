@@ -39,6 +39,8 @@
 <v t="leo.20210422215830.1"><vh>DNS1</vh></v>
 <v t="leo.20210422230921.1"><vh>DNS2</vh></v>
 </v>
+<v t="leo.20210423013328.1"><vh>good</vh></v>
+<v t="leo.20210423013558.1"><vh>end</vh></v>
 </v>
 </v>
 </v>
@@ -207,7 +209,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20210422194341.1">&lt;section&gt;
-    &lt;h1&gt;ipv4&lt;h1&gt;
+    &lt;h1&gt;ipv4&lt;/h1&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210422201939.1">&lt;section&gt;
@@ -219,7 +221,7 @@ vertical: body pane on the botton</t>
     @others
 &lt;/section&gt;</t>
 <t tx="leo.20210422205308.1">&lt;section&gt;
-    &lt;h1&gt;ipv6&lt;h1&gt;
+    &lt;h1&gt;ipv6&lt;/h1&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422205532.1">&lt;section&gt;
     @others
@@ -236,8 +238,8 @@ vertical: body pane on the botton</t>
     @others
 &lt;/section&gt;</t>
 <t tx="leo.20210422215830.1">&lt;section&gt;
-    &lt;h1&gt;DNS&lt;h1&gt;
-    &lt;h3&gt;Domain Name System&lt;h3&gt;
+    &lt;h1&gt;DNS&lt;/h1&gt;
+    &lt;h3&gt;Domain Name System&lt;/h3&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422220341.1">&lt;section&gt;
     &lt;img src="https://50933121.github.io/images/6.png"  style="height: 120pt; margin:auto ; background: transparent;" class="demo-logo"&gt;
@@ -253,14 +255,20 @@ vertical: body pane on the botton</t>
     @others
 &lt;/section&gt;</t>
 <t tx="leo.20210422234903.1">&lt;section&gt;
-    &lt;h2&gt;PROXY&lt;h2&gt;
-    &lt;h5&gt;代理伺服器&lt;h5&gt;
+    &lt;h2&gt;PROXY&lt;/h2&gt;
+    &lt;h5&gt;代理伺服器&lt;/h5&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210423000015.1">&lt;section&gt;
     &lt;p&gt;提高存取速度&lt;/p&gt;
     &lt;p&gt;過濾內容&lt;/p&gt;
     &lt;p&gt;隱藏真實IP&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423013328.1">&lt;section&gt;
+    &lt;h2&gt;我上網管這門課的心得&lt;/h2&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423013558.1">&lt;section&gt;
+    &lt;h1&gt;THE END&lt;/h1&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
