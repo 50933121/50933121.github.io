@@ -20,7 +20,10 @@
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20210422194341.1"><vh>slide 3</vh></v>
+<v t="leo.20210422202637.1"><vh>slide 3</vh>
+<v t="leo.20210422194341.1"><vh>slide 3-1</vh></v>
+<v t="leo.20210422201939.1"><vh>slide 3-2</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -183,8 +186,16 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20210422194341.1">&lt;section&gt;
-    &lt;img src="https://50933121.github.io/images/vs.png"  style="height: 200px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;img src="https://50933121.github.io/images/vs.png"  style="height: 450px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20210422201939.1">&lt;section&gt;
+    &lt;h2&gt;ipv4&lt;h2&gt;
+    &lt;p&gt;&lt;small&gt;IPV4使用的是32位元的位址&lt;/p&gt;
+    &lt;img src="https://50933121.github.io/images/ipv4.png"  style="height: 200px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422202637.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
