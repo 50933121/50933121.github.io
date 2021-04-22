@@ -23,6 +23,15 @@
 <v t="leo.20210422202637.1"><vh>slide 3</vh>
 <v t="leo.20210422194341.1"><vh>slide 3-1</vh></v>
 <v t="leo.20210422201939.1"><vh>slide 3-2</vh></v>
+<v t="leo.20210422215138.1"><vh>slide 3-3</vh></v>
+</v>
+<v t="leo.20210422205532.1"><vh>slide 4</vh>
+<v t="leo.20210422205308.1"><vh>slide 4-1</vh></v>
+<v t="leo.20210422213308.1"><vh>slide 4-2</vh></v>
+<v t="leo.20210422220341.1"><vh>slide 4-3</vh></v>
+</v>
+<v t="leo.20210422215744.1"><vh>slide 5</vh>
+<v t="leo.20210422215830.1"><vh>slide 5-1</vh></v>
 </v>
 </v>
 </v>
@@ -181,21 +190,44 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;網路iP的演進&lt;/h2&gt;
+    &lt;h2&gt;網路IP協定的演進&lt;/h2&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20210422194341.1">&lt;section&gt;
-    &lt;img src="https://50933121.github.io/images/vs.png"  style="height: 450px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;h1&gt;ipv4&lt;h1&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210422201939.1">&lt;section&gt;
-    &lt;h2&gt;ipv4&lt;h2&gt;
-    &lt;p&gt;&lt;small&gt;IPV4使用的是32位元的位址&lt;/p&gt;
-    &lt;img src="https://50933121.github.io/images/4.png"  style="height: 200px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;p&gt;IPV4為32位元&lt;/p&gt;
+    &lt;p&gt;總位址數量有2的32次方個&lt;/p&gt;
+    &lt;p&gt;平均每人分到的數量只有0.6個&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422202637.1">&lt;section&gt;
     @others
+&lt;/section&gt;</t>
+<t tx="leo.20210422205308.1">&lt;section&gt;
+    &lt;h1&gt;ipv6&lt;h1&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422205532.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210422213308.1">&lt;section&gt;
+    &lt;p&gt;IPV6為128位元&lt;/p&gt;
+    &lt;p&gt;總位址有2的128次方個&lt;/p&gt;
+    &lt;p&gt;最主要是為解決IPV4已經用盡的問題&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422215138.1">&lt;section&gt;
+    &lt;img src="https://50933121.github.io/images/4.png"  style="height: 300px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422215744.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210422215830.1">&lt;section&gt;
+    &lt;h1&gt;DNS&lt;h1&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422220341.1">&lt;section&gt;
+    
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
