@@ -33,6 +33,7 @@
 <v t="leo.20210422223802.1"><vh>slide 5</vh></v>
 <v t="leo.20210422215744.1"><vh>slide 6</vh>
 <v t="leo.20210422215830.1"><vh>slide 6-1</vh></v>
+<v t="leo.20210422225621.1"><vh>slide 6-2</vh></v>
 </v>
 </v>
 </v>
@@ -226,12 +227,17 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210422215830.1">&lt;section&gt;
     &lt;h1&gt;DNS&lt;h1&gt;
+    &lt;p&gt;&lt;small&gt;Domain Name System&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422220341.1">&lt;section&gt;
     &lt;img src="https://50933121.github.io/images/6.png"  style="height: 120pt; margin:auto ; background: transparent;" class="demo-logo"&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422223802.1">&lt;section&gt;
    &lt;img src="https://50933121.github.io/images/vs.jpg"  style="height: 400pt; margin: auto ; background: transparent;"" class="demo-logo"&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422225621.1">&lt;section&gt;
+    &lt;h2&gt;&lt;a href="https://www.nfu.edu.tw"&gt;www.nfu.edu.tw&lt;/a&gt;&lt;h2&gt;
+    &lt;h2&gt;&lt;a href="https://140.130.1.19"&gt;140.130.1.19&lt;/a&gt;&lt;h2&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
