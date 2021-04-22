@@ -204,7 +204,7 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;網路IP協定的演進&lt;/h2&gt;
+    &lt;h2&gt;網路的協定與設備&lt;/h2&gt;
 &lt;/section&gt;
 
 </t>
@@ -265,7 +265,7 @@ vertical: body pane on the botton</t>
     &lt;p&gt;隱藏真實IP&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423021334.1">&lt;section&gt;
-    &lt;p&gt;&lt;a href="https://www.nfu.edu.tw/"&gt;我上網管這門課的心得&lt;/p&gt;
+    &lt;h2&gt;&lt;a href="https://www.nfu.edu.tw/"&gt;我上網管這門課的心得&lt;/h2&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423021359.1">&lt;section&gt;
     &lt;h1&gt;&lt;a href="https://www.nfu.edu.tw/"&gt;THE END&lt;/h1&gt;
