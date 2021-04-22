@@ -192,7 +192,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210422201939.1">&lt;section&gt;
     &lt;h2&gt;ipv4&lt;h2&gt;
     &lt;p&gt;&lt;small&gt;IPV4使用的是32位元的位址&lt;/p&gt;
-    &lt;img src="https://50933121.github.io/images/ipv4.png"  style="height: 200px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;img src="https://50933121.github.io/images/4.png"  style="height: 200px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422202637.1">&lt;section&gt;
     @others
