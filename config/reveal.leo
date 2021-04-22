@@ -231,7 +231,7 @@ vertical: body pane on the botton</t>
     &lt;img src="https://50933121.github.io/images/6.png"  style="height: 120pt; margin:auto ; background: transparent;" class="demo-logo"&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422223802.1">&lt;section&gt;
-   &lt;img src="https://50933121.github.io/images/vs.jpg"  style="height: 100pt; margin: auto ; background: transparent;"" class="demo-logo"&gt;
+   &lt;img src="https://50933121.github.io/images/vs.jpg"  style="height: 600pt; margin: auto ; background: transparent;"" class="demo-logo"&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
