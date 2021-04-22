@@ -190,7 +190,7 @@ vertical: body pane on the botton</t>
     &lt;/a&gt;
     &lt;h3&gt;五專網際內容管理第六組報告&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by 
+        &lt;small&gt;組員：
         &lt;a href="https://50833132.github.io"&gt;50833132&lt;/a&gt;
         &lt;a href="https://50933118.github.io"&gt;50933118&lt;/a&gt;
         &lt;a href="https://50933120.github.io"&gt;50933120&lt;/a&gt;
