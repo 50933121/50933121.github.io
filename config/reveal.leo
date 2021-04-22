@@ -18,22 +18,26 @@
 <v t="leo.20200818165413.1"><vh>body</vh>
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
-<v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20210422202637.1"><vh>slide 3</vh>
-<v t="leo.20210422194341.1"><vh>slide 3-1</vh></v>
-<v t="leo.20210422201939.1"><vh>slide 3-2</vh></v>
-<v t="leo.20210422215138.1"><vh>slide 3-3</vh></v>
+<v t="leo.20200818170328.1"><vh>page1</vh></v>
+<v t="leo.20200818170535.1"><vh>index</vh></v>
+<v t="leo.20210422202637.1"><vh>IPV4</vh>
+<v t="leo.20210422194341.1"><vh>IPV4_1</vh></v>
+<v t="leo.20210422201939.1"><vh>IPV4_2</vh></v>
+<v t="leo.20210422215138.1"><vh>IPV4_3</vh></v>
 </v>
-<v t="leo.20210422205532.1"><vh>slide 4</vh>
-<v t="leo.20210422205308.1"><vh>slide 4-1</vh></v>
-<v t="leo.20210422213308.1"><vh>slide 4-2</vh></v>
-<v t="leo.20210422220341.1"><vh>slide 4-3</vh></v>
+<v t="leo.20210422205532.1"><vh>IPV6</vh>
+<v t="leo.20210422205308.1"><vh>IPV6_1</vh></v>
+<v t="leo.20210422213308.1"><vh>IPV6_2</vh></v>
+<v t="leo.20210422220341.1"><vh>IPV6_3</vh></v>
 </v>
-<v t="leo.20210422223802.1"><vh>slide 5</vh></v>
-<v t="leo.20210422215744.1"><vh>slide 6</vh>
-<v t="leo.20210422215830.1"><vh>slide 6-1</vh></v>
-<v t="leo.20210422230921.1"><vh>slide 6-2</vh></v>
+<v t="leo.20210422233413.1"><vh>PROXY</vh>
+<v t="leo.20210422234903.1"><vh>PROXY1</vh></v>
+<v t="leo.20210423000015.1"><vh>PROXY2</vh></v>
+</v>
+<v t="leo.20210422223802.1"><vh>IPV6 vs IPV4</vh></v>
+<v t="leo.20210422215744.1"><vh>DNS</vh>
+<v t="leo.20210422215830.1"><vh>DNS1</vh></v>
+<v t="leo.20210422230921.1"><vh>DNS2</vh></v>
 </v>
 </v>
 </v>
@@ -186,7 +190,13 @@ vertical: body pane on the botton</t>
     &lt;/a&gt;
     &lt;h3&gt;五專網際內容管理第六組報告&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="https://github.com/50933121/50933121.github.io"&gt;shun040193&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;Created by 
+        &lt;a href="https://50833132.github.io"&gt;50833132&lt;/a&gt;
+        &lt;a href="https://50933118.github.io"&gt;50933118&lt;/a&gt;
+        &lt;a href="https://50933120.github.io"&gt;50933120&lt;/a&gt;
+        &lt;a href="https://50933121.github.io"&gt;50933121&lt;/a&gt;
+        &lt;a href="https://50933125.github.io"&gt;50933125&lt;/a&gt;
+        &lt;a href="https://50933141.github.io"&gt;50933141&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -238,6 +248,19 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210422230921.1">&lt;section&gt;
     &lt;p&gt;&lt;a href="https://www.nfu.edu.tw/"&gt;www.nfu.edu.tw&lt;/p&gt;
     &lt;p&gt;&lt;a href="https://140.130.1.19"&gt;140.130.1.19&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210422233413.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210422234903.1">&lt;section&gt;
+    &lt;h2&gt;PROXY&lt;h2&gt;
+    &lt;h5&gt;代理伺服器&lt;h5&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210423000015.1">&lt;section&gt;
+    &lt;p&gt;提高存取速度&lt;/p&gt;
+    &lt;p&gt;過濾內容&lt;/p&gt;
+    &lt;p&gt;隱藏真實IP&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
