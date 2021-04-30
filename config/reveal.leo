@@ -39,8 +39,6 @@
 <v t="leo.20210422215830.1"><vh>DNS1</vh></v>
 <v t="leo.20210422230921.1"><vh>DNS2</vh></v>
 </v>
-<v t="leo.20210423021334.1"><vh>DNS2</vh></v>
-<v t="leo.20210423021359.1"><vh>DNS2</vh></v>
 </v>
 </v>
 </v>
@@ -218,13 +216,13 @@ vertical: body pane on the botton</t>
     &lt;p&gt;平均每人分到的數量只有0.6個&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422202637.1">&lt;section&gt;
-    @others
+@others
 &lt;/section&gt;</t>
 <t tx="leo.20210422205308.1">&lt;section&gt;
     &lt;h1&gt;ipv6&lt;/h1&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422205532.1">&lt;section&gt;
-    @others
+@others
 &lt;/section&gt;</t>
 <t tx="leo.20210422213308.1">&lt;section&gt;
     &lt;p&gt;IPV6為128位元&lt;/p&gt;
@@ -235,7 +233,7 @@ vertical: body pane on the botton</t>
     &lt;img src="https://50933121.github.io/images/4.png"  style="height: 200pt; margin: auto ; background: transparent;"" class="demo-logo"&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422215744.1">&lt;section&gt;
-    @others
+@others
 &lt;/section&gt;</t>
 <t tx="leo.20210422215830.1">&lt;section&gt;
     &lt;h1&gt;DNS&lt;/h1&gt;
@@ -252,7 +250,7 @@ vertical: body pane on the botton</t>
     &lt;p&gt;&lt;a href="https://140.130.1.19"&gt;140.130.1.19&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422233413.1">&lt;section&gt;
-    @others
+@others
 &lt;/section&gt;</t>
 <t tx="leo.20210422234903.1">&lt;section&gt;
     &lt;h2&gt;PROXY&lt;/h2&gt;
@@ -263,12 +261,6 @@ vertical: body pane on the botton</t>
     &lt;p&gt;提高存取速度&lt;/p&gt;
     &lt;p&gt;過濾內容&lt;/p&gt;
     &lt;p&gt;隱藏真實IP&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210423021334.1">&lt;section&gt;
-    &lt;h2&gt;&lt;a href="https://www.nfu.edu.tw/"&gt;我上網管這門課的心得&lt;/h2&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20210423021359.1">&lt;section&gt;
-    &lt;h1&gt;&lt;a href="https://www.nfu.edu.tw/"&gt;THE END&lt;/h1&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
